@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3
-          i.title-num 1
+          .title-num 1
       .h3 Comunicación en marketing
     .row
       .col-12
@@ -36,21 +36,21 @@
     p.mt-5 #[strong Best (2007)] , determina que la primera responsabilidad de una comunicación de marketing, es construir notoriedad: informar a los clientes de los productos y servicios de una empresa, segundo las comunicaciones de marketing deben recordar los mensajes, para mantener la notoriedad de lo comunicado y tercero la responsabilidad de una comunicación de marketing puede ser motivar al mercado objetivo a pasar a la acción. Los tres objetivos fundamentales en las comunicaciones de marketing son:
     .row.mt-5.p-5.bg-gris-claro
       .col-5.col-md-4.offset-md-1.text-center
-        h5 Construir notoriedad: 
-        p.mt-2 Conseguir un nivel de notoriedad determinado en relación con la organización, sus productos y servicios.
+        h5 1. Construir notoriedad: 
+        p.mt-2 conseguir un nivel de notoriedad determinado en relación con la organización, sus productos y servicios.
       .col-5.offset-2.col-md-4.offset-md-2.text-center
-        h5 Estimular a la acción: 
-        p.mt-2 Motivar al mercado objetivo para llevar a cabo una acción específica a corto plazo.
+        h5 3. Estimular a la acción: 
+        p.mt-2 motivar al mercado objetivo para llevar a cabo una acción específica a corto plazo.
       .col-10.offset-1
         figure.mb-5
           img(src="@/assets/template/tema-1-1.svg", alt="Texto que describa la imagen")
       .col-8.col-lg-4.offset-2.offset-lg-4.text-center
-        h5 Reforzar el mensaje:
-        p.mt-2 Mantener, a lo largo del tiempo, el nivel deseado de recuerdo en relación con la imagen, beneficios básicos y nombre de la compañía y de sus marcas.
-    figcaption Referencia Tabla - Norma APA
+        h5 2. Reforzar el mensaje:
+        p.mt-2 mantener, a lo largo del tiempo, el nivel deseado de recuerdo en relación con la imagen, beneficios básicos y nombre de la compañía y de sus marcas.
+    figcaption Referencia Tabla - Norma APA.
     .row.mt-5
       h5 Mezcla de comunicación
-      p.mt-5 #[strong Best (2016)], explica, a través de la siguiente figura, la mezcla de comunicación
+      p.mt-5 #[strong Best (2016)], explica, a través de la siguiente figura, la mezcla de comunicación.
     .row
       .col-12
         .row.py-2
@@ -58,7 +58,7 @@
             img(src='@/assets/template/tema-1-2.svg', alt='', style='margin-right: -100px').w-100
           .col-9.col-md-5.py-3.bg-azul-claro.rounded.align-self-center
             .col-sm.mb-5.mb-sm-0.mt-2.mx-5
-              h5.mt-3 publicidad
+              h5.mt-3 Publicidad
               p.mt-4 Cualquier forma impersonal de presentación y promoción de ideas, bienes o servicios, que paga un patrocinador identificado #[strong (Kotler, 2017)]. Es una estrategia de comunicación,
           .col-5.d-none.d-md-block.align-self-center.mt-5
             figure.mb-5
@@ -66,7 +66,7 @@
     .row
       SlyderB(:datos="datosSlyder")
 
-    .row
+    .row.mt-5
       .titulo-segundo
         #t_1_1.h4 1.1  Identidad visual
       .bloque-texto-a.p-4.p-md-5.mb-5
@@ -157,13 +157,19 @@
               .col-1.text-align-right
                 i.fas.fa-angle-right.color-c.text-center
               .col-11
-                p #[strong Demostraciones.] Se muestran los beneficios del producto, y hasta sus precauciones de uso, en un escenario real. 
+                p #[strong Demostraciones.] Se muestran los beneficios del producto, y hasta sus precauciones de uso, en un escenario real.          
           li.mb-0.mt-2 
             .row
               .col-1.text-align-right
                 i.fas.fa-angle-right.color-c.text-center
               .col-11
                 p #[strong Mensajes con soporte técnico o respaldo.] Se busca la credibilidad del consumidor mediante soporte de investigaciones científicas o respaldo de organizaciones que dan fe de la calidad del producto.
+          li.mb-0.mt-2 
+            .row
+              .col-1.text-align-right
+                i.fas.fa-angle-right.color-c.text-center
+              .col-11
+                p #[strong Mensajes con comparaciones de marca.] Dar a conocer al consumidor los diferenciadores o ventajas de una marca en relación con sus más inmediatos competidores.
           li.mb-0.mt-2
             .row
               .col-1.text-align-right
@@ -211,9 +217,13 @@
             td.borde-izq
               h6 Publicidad con razones: el anunciante razona con el consumidor. Anuncios de ventas agresivas: ejercen mucha presión y demandan respuestas urgentes. Anuncios comparativos: hacen una comparación de sus características y las de las marcas competidoras. Testimoniales: reside en la presentación del vocero de los atributos y beneficios de una marca. Demostración: reside en la presentación autorizada por el vocero de los atributos y beneficios de una marca. Publirreportajes e infomerciales: se presenta a través de canales.
           tr
-            td Infundir una preferencia de marca: hacer que a los consumidores les agrade o prefieran su marca por encima de todas las demás. Atemorizar al consumidor para una acción: hacer que los consumidores compren un bien o servicio al infundir temor.
+            td Infundir una preferencia de marca: hacer que a los consumidores les agrade o prefieran su marca por encima de todas las demás. 
             td.borde-izq
-              h6 Anuncios para sentirse bien: una asociación afectiva y sentimental. Anuncios graciosos: el humor es algo excepcional. Anuncios de atractivo sexual: los humanos piensan en el sexo de tiempo en tiempo. Anuncios de apelación al temor: la apelación al temor resalta el riesgo de daño o una consecuencia negativa.
+              h6 Anuncios para sentirse bien: una asociación afectiva y sentimental. Anuncios graciosos: el humor es algo excepcional. Anuncios graciosos: el humor es algo excepcional. Anuncios de atractivo sexual: los humanos piensan en el sexo de tiempo en tiempo. 
+          tr
+            td Atemorizar al consumidor para una acción: hacer que los consumidores compren un bien o servicio al infundir temor.
+            td.borde-izq
+              h6 Anuncios de apelación al temor: la apelación al temor resalta el riesgo de daño o una consecuencia negativa.
           tr
             td Modificar el comportamiento al inducir la ansiedad: lograr que los consumidores tomen una decisión de compra; las ansiedades son a menudo de naturaleza social.
             td.borde-izq 
@@ -357,7 +367,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-28.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5  Competencia.
+            h5  Descuentos.
             p.mt-3 Las ofertas o descuentos son reducciones del precio a corto plazo, que en general se usan para incrementar la prueba entre posibles clientes o tomar represalias contra las medidas adoptadas por un competidor, #[strong (Kerin, 2018)]. Para almacenes que comercializan productos, es un buen método para reactivar las ventas y generar ingresos importantes; también estos programas son de gran beneficio en época de recesión o en aquellos ciclos ya tratados donde la demanda de ciertos productos baja. Para los meses de febrero a marzo, los consumidores después de pasar la temporada navideña de grandes gastos, disminuyen su nivel de consumo de ropa, calzado, cosméticos; y de la única manera que se motivan a generar otros gastos es cuando son atraídos por los llamativos descuentos. Las mismas compañías productoras apoyan a sus distribuidores en este tipo de campañas, logrando beneficio mutuo #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -733,7 +743,7 @@
               img(src="@/assets/template/tema-1-59.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
             h3 Camisetas impresas, cachuchas y las viseras. 
-            p.mt-4 Aparte de sus funciones como parte integral del producto, son un excelente medio publicitario, pues el empaque genera imagen y la etiqueta contiene una amplia información acerca de las bondades del producto y sus instrucciones de manejo, que son referentes que tienen en cuenta los consumidores para tomar la decisión de comprar #[strong (Prettel, 2016)].
+            p.mt-4 Son elementos utilizados para hacer publicidad #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
         .row
@@ -865,7 +875,7 @@
       .col-6.d-none.d-md-block.align-self-center
         figure
           img(src="@/assets/template/tema-1-70.png", alt="Texto que describa la imagen")    
-    p.mt-5 #[strong Prettel (2016)], describe el proceso para el desarrollo de una campaña publicitaria, así:
+    p.mt-5 A continuación, se describen los aspectos relacionados con la frecuencia e intensidad de la campaña, se debe pulsar para revisar la información correspondiente:
     
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="1.10.1.	Frecuencia")
@@ -946,11 +956,11 @@
                 i.fas.fa-angle-right.color-c.text-center
               .col-11
                 p Brindar elementos a los consumidores, que les permitan identificar cuándo están ante un mensaje publicitario.
-    a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank").mt-5
+    a.anexo(:href="'https://www.sic.gov.co/slider/superindustria-expide-%E2%80%9Cgu%C3%ADa-de-buenas-pr%C3%A1cticas-en-la-publicidad-trav%C3%A9s-de-influenciadores%E2%80%9D'" target="_blank").mt-5
       .anexo__icono
         img(src="@/assets/template/icono-link.svg")
       .anexo__texto
-        p Enlace web. https://www.sic.gov.co/slider/superindustria-expide-%E2%80%9Cgu%C3%ADa-de-buenas-pr%C3%A1cticas-en-la-publicidad-trav%C3%A9s-de-influenciadores%E2%80%9D        
+        p Enlace web. https://www.sic.gov.co/slider/superindustria-expide-%E2%80%9Cgu%C3%ADa-de-buenas-pr%C3%A1cticas-en-la-publicidad-trav%C3%A9s-de-influenciadores%E2%80%9D      
 
 
 </template>
@@ -961,7 +971,7 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Promoción de ventas.',
+        titulo: 'Ventas personales.',
         texto:
           'Incentivos a corto plazo que alientan la compra o venta de un producto o servicio (Kotler, 2017). Diariamente se ve como supermercados, almacenes, empresas de servicios, implementan atractivas promociones para sus compradores. A través de catálogos que cada supermercado ',
         imagen: require('@/assets/template/tema-1-4.png'),
