@@ -142,12 +142,6 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Uriel Darío González Montoya',
-        cargo: 'Acompañamiento pedagógico',
-        centro: 'Centro Agropecuario La Granja',
-        regional: 'Regional Tolima',
-      },
-      {
         nombre: 'Claudia Juliana León Pinto',
         cargo: 'Experta tematica ',
         centro: 'Centro de Servicios Empresariales y Turísticos',
@@ -157,24 +151,6 @@ export default {
         nombre: 'Alix Cecilia Chinchilla Rueda',
         cargo: 'Diseñadora Instruccional ',
         centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Fabián Leonardo Correa Díaz',
-        cargo: 'Diseñador Instruccional ',
-        centro: 'Centro Agropecuario La Granja',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Jesús Libardo Acero',
-        cargo: 'Evaluador instruccional',
-        centro: 'Centro de Diseño y metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo ',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
       {
@@ -207,7 +183,6 @@ export default {
           'Nelson Vera Briceño',
           'Angela Maldonado Jaime',
           'Victor Cardenas',
-          'Laura Murcia',
         ],
         cargo: 'Producción audiovisual',
       },
@@ -218,8 +193,6 @@ export default {
       {
         nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
-      },
-      {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
@@ -227,7 +200,7 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        cargo: ['Validación y vinculación en plataforma LMS'],
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },

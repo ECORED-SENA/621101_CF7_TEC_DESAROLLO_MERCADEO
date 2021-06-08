@@ -590,7 +590,6 @@
       .py-4.py-md-5(titulo="Canales directos e interactivos" :icono="require('@/assets/template/tema-1-44.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            .h4 Canales directos e interactivos
             p Permiten a la empresa comunicar sus mensajes a través de sus contactos personales a clientes potenciales haciendo uso del correo, teléfono, Internet, móvil, visitas personales, etc. Se trata de una opción relacionada con la estrategia push (empujar), al orientarse los esfuerzos de comunicación sobre un intermediario (en este caso los contactos personales de la propia empresa).
           .col-md-6.justify-content-center
             figure
@@ -598,7 +597,6 @@
       .py-4.py-md-5(titulo="Canales Indirectos" :icono="require('@/assets/template/tema-1-45.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            .h4 Canales indirectos
             p Permiten a la empresa comunicarse a través de intermediarios, como agentes o brokers, distribuidores, etc. Se trata de nuevo de una opción relacionada con la estrategia push (empujar).
           .col-md-6.justify-content-center
             figure
@@ -606,7 +604,6 @@
       .py-4.py-md-5(titulo="Comunicaciones Personales" :icono="require('@/assets/template/tema-1-46.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            .h4 Comunicaciones personales
             p Permiten a la empresa poner en práctica el concepto de comunicación uno a uno entre un gestor de marketing o representante de la empresa y un consumidor a través de venta personal, marketing directo, marketing online, la generación del word-of-mouth, etc. Se trata de una opción relacionada con la estrategia pull (tirar), por ser la propia empresa la que comunica.
           .col-md-6.justify-content-center
             figure
@@ -615,7 +612,6 @@
       .py-4.py-md-5(titulo="Comunicaciones Masivas" :icono="require('@/assets/template/tema-1-47.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            .h4 Comunicaciones masivas
             p Permiten a la empresa comunicar a un grupo de clientes a través de la publicidad, marketing promocional, eventos y experiencias, etc. De nuevo se trata de una opción relacionada con la estrategia pull (tirar).
           .col-md-6.justify-content-center.align-self-center
             figure
@@ -970,7 +966,7 @@ export default {
       {
         titulo: 'Ventas personales',
         texto:
-          'Incentivos a corto plazo que alientan la compra o venta de un producto o servicio (Kotler, 2017). Diariamente se ve como supermercados, almacenes, empresas de servicios, implementan atractivas promociones para sus compradores. A través de catálogos que cada supermercado ',
+          'Interacciones personales entre el cliente y la fuerza de ventas de la compañía con el propósito de vender, atraer a los clientes y establecer relaciones con ellos (Kotler, 2018). Esto permite el contacto directo con los clientes, lo que la hace la mejor estrategia para lograr resultados en ventas. El vendedor en el diálogo directo y constante con el posible cliente, le entrega mayor información, se le eliminan de manera adecuada sus objeciones, se le resuelve rápida y efectivamente sus problemas (Prettel, 2016). Kerin (2018), define la venta personal como el flujo bidireccional de comunicación entre un comprador y un vendedor, y que está diseñada para influir en la decisión de compra de una persona o grupo.',
         imagen: require('@/assets/template/tema-1-4.png'),
       },
       {
