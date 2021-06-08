@@ -130,28 +130,108 @@ export default {
     ],
   },
   creditos: {
-    liderEquipo: {},
+    liderEquipo: {
+      nombre: 'Maria Camila Garcia Santamaria',
+      cargo: 'Líder del equipo',
+    },
     contenidoInstruccional: [
       {
-        nombre: 'Claudia Juliana León Pinto',
-        cargo: 'Experta temática',
-        centro: 'Centro de servicio empresariales y turísticos ',
+        nombre: 'Rafael Nelftalí Lizcano Reyes',
+        cargo: 'Asesor pedagógico',
+        centro: 'Centro Industrial Del Diseño Y La Manufactura',
         regional: 'Regional Santander',
       },
-    ],
-    desarrolloProducto: [
+      {
+        nombre: 'Uriel Darío González Montoya',
+        cargo: 'Acompañamiento pedagógico',
+        centro: 'Centro Agropecuario La Granja',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Claudia Juliana León Pinto',
+        cargo: 'Experta tematica ',
+        centro: 'Centro de Servicios Empresariales y Turísticos',
+        regional: 'Regional Santander',
+      },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Gestión Industrial.',
-        regional: 'Regional Bogotá',
+        cargo: 'Diseñadora Instruccional ',
+        centro: 'Centro de Gestión Industrial',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional ',
+        centro: 'Centro Agropecuario La Granja',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Jesús Libardo Acero',
+        cargo: 'Evaluador instruccional',
+        centro: 'Centro de Diseño y metrología',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Revisora de estilo ',
+        centro: 'Centro para la Industria y la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrector de estilo',
+        centro: 'Centro para la Industria y la Comunicación Gráfica.',
+        regional: 'Regional Distrito Capital.',
       },
     ],
-    gestoresRepositorio: [{}],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+      },
+      {
+        nombre: ['Luis Fernando Sarmiento Betancourth'],
+        cargo: 'Diseño web',
+      },
+      {
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Daniela Muñoz Bedoya ',
+          'Maria Carolina Tamayo',
+          'Nelson Vera Briceño',
+          'Angela Maldonado Jaime',
+          'Victor Cardenas',
+          'Laura Murcia',
+        ],
+        cargo: 'Producción audiovisual',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego Suárez',
+        cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Validación de diseño y contenido',
+      },
+      {
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+    ],
+    gestoresRepositorio: [
+      {
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        centro: 'Centro de comercio y servicios',
+        regional: 'Regional Tolima',
+      },
+    ],
   },
   referencias: [
     {

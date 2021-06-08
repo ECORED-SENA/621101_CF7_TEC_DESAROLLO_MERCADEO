@@ -9,7 +9,7 @@
       .h3 Comunicación en marketing
     .row
       .col-12
-        p #[strong Para Prettel (2016)] , los elementos de la comunicación se definen de la siguiente manera:
+        p #[strong Para Prettel (2016)], los elementos de la comunicación se definen de la siguiente manera:
       .col-12.mt-4
         TabsA.mb-5
           .tarjeta.tarjeta--amarilla--borde.p-4(titulo="1: Emisor (codificador)")
@@ -35,18 +35,9 @@
             p.mt-4 Cuando el receptor ha captado el mensaje en la forma que se espera (comprensión del mensaje). En el marketing, cuando el consumidor recuerda el producto o lo compra.    
     p.mt-5 #[strong Best (2007)] , determina que la primera responsabilidad de una comunicación de marketing, es construir notoriedad: informar a los clientes de los productos y servicios de una empresa, segundo las comunicaciones de marketing deben recordar los mensajes, para mantener la notoriedad de lo comunicado y tercero la responsabilidad de una comunicación de marketing puede ser motivar al mercado objetivo a pasar a la acción. Los tres objetivos fundamentales en las comunicaciones de marketing son:
     .row.mt-5.p-5.bg-gris-claro
-      .col-5.col-md-4.offset-md-1.text-center
-        h5 1. Construir notoriedad: 
-        p.mt-2 conseguir un nivel de notoriedad determinado en relación con la organización, sus productos y servicios.
-      .col-5.offset-2.col-md-4.offset-md-2.text-center
-        h5 3. Estimular a la acción: 
-        p.mt-2 motivar al mercado objetivo para llevar a cabo una acción específica a corto plazo.
-      .col-10.offset-1
-        figure.mb-5
+      .col-12
+        figure.mb-2
           img(src="@/assets/template/tema-1-1.svg", alt="Texto que describa la imagen")
-      .col-8.col-lg-4.offset-2.offset-lg-4.text-center
-        h5 2. Reforzar el mensaje:
-        p.mt-2 mantener, a lo largo del tiempo, el nivel deseado de recuerdo en relación con la imagen, beneficios básicos y nombre de la compañía y de sus marcas.
     figcaption Referencia Tabla - Norma APA.
     .row.mt-5
       h5 Mezcla de comunicación
@@ -59,7 +50,7 @@
           .col-9.col-md-5.py-3.bg-azul-claro.rounded.align-self-center
             .col-sm.mb-5.mb-sm-0.mt-2.mx-5
               h5.mt-3 Publicidad
-              p.mt-4 Cualquier forma impersonal de presentación y promoción de ideas, bienes o servicios, que paga un patrocinador identificado #[strong (Kotler, 2017)]. Es una estrategia de comunicación,
+              p.mt-4 Cualquier forma impersonal de presentación y promoción de ideas, bienes o servicios, que paga un patrocinador identificado #[strong (Kotler, 2017)]. Es una estrategia de comunicación, la cual, mediante un mensaje verbal, escrito o en símbolos, dirigido a uno o varios segmentos receptores identificados en sus características y a través de medios de información, informa, persuade, recuerda y estimula la compra de un producto #[strong (Prettel, 2016)].
           .col-5.d-none.d-md-block.align-self-center.mt-5
             figure.mb-5
               img(src="@/assets/template/tema-1-3.svg", alt="Texto que describa la imagen")
@@ -309,29 +300,29 @@
     .row.mt-5
       .col-10.offset-1.rounded.borde-gris.p-5
         .row
-          h5 Objetivos promocionales.
+          h5 Objetivos promocionales
           p.mt-3 El programa de promoción de ventas, como todos los de la mezcla de mercadeo, debe articularse con los objetivos de la empresa. Algunos objetivos pueden están enfocados a informar, estimular la demanda, evitar la deserción de clientes, cambio de actitud frente al producto, estímulo para los distribuidores, competir, generar ingresos y generar crecimiento corporativo.
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-5
         .row
-          h5 Tipo de producto.
+          h5 Tipo de producto
           p.mt-3 De acuerdo con el producto que se promociona, se establece el método más conveniente. El tipo de producto también influye en la escogencia de los lugares de promoción.
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-5
         .row
-          h5 Segmento meta.
+          h5 Segmento meta
           p.mt-3 Los consumidores reaccionan o asumen una actitud frente a un determinado bien o servicio, según el segmento al que pertenecen.
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-5
         .row
-          h5 Competencia.
+          h5 Competencia
           p.mt-3 Desconocer lo que están haciendo el resto de oferentes que se disputan el mercado puede ocasionar errores que son aprovechados por ellos mismos.
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-5
         .row
-          h5 Ciclo de vida del producto.
+          h5 Ciclo de vida del producto
           p.mt-3 La etapa de introducción deberá caracterizarse por una campaña promocional intensa paralela a la publicitaria, para que, se logren superar los obstáculos propios de esta etapa como el desconocimiento del producto por parte de los consumidores, resistencia al cambio o lealtad hacia las marcas ya establecidas y los ataques de la competencia. En la etapa de crecimiento disminuye la intensidad de la promoción de ventas, ya que se espera que el mercado tenga mayor conocimiento del producto. En la etapa de madurez son frecuentes las promociones, debido a que en esta etapa se han incrementado significativamente el número de competidores, lo que hace que los consumidores tengan muchas opciones de productos para satisfacer sus necesidades. La promoción en este caso busca incrementar las ventas y mantener la lealtad a una marca.
-    h5.mt-5 Métodos de promoción.
+    h5.mt-5 Métodos de promoción
     p.mt-2 A continuación, se describen los métodos de promoción.
     .row.mt-5
       .col-10.offset-1.borde-top-gris
@@ -340,7 +331,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-25.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5 La degustación. 
+            h5 La degustación
             p.mt-3 Se puede realizar en el punto de venta o en cualquier tipo de mercado. Al consumidor se le da a que experimente de manera inmediata el producto, logrando en el mismo momento una opinión al respecto. Método muy utilizado para jugos, galletas, margarinas, carnes frías, entre otros, siendo de gran estímulo para la compra. Un lugar comúnmente utilizado para este tipo de promoción son los supermercados de cadena, en los que se aprovecha al grupo de promotoras para impulsar en el punto de venta, que debe estar ubicado en un lugar estratégico, #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -349,7 +340,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-26.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5 Muestra gratis.  
+            h5 Muestra gratis  
             p.mt-3 Se usa con frecuencia consiste en ofrecer el producto gratis o a un precio muy reducido. A menudo se usan con nuevos productos, ya que las muestras ponen el artículo en manos de los consumidores (Kerin, 2018). Un método que se puede aplicar en desodorantes, champú para el cabello, jabones, entre otros. Para este caso, se debe ser cuidadoso en la definición de la unidad que se va a promover, la cual, se aconseja, deberá ser de un tamaño menor que el de la unidad de venta, a fin de no incrementar los costos de la campaña. Lo que se busca es que el consumidor que recibe la muestra (que hasta ese momento es un comprador en potencia), después de experimentarlo, pueda llegar a identificarse con la calidad del producto, convirtiéndose en un comprador real; desertando de la competencia #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -358,7 +349,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-27.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5 Demostraciones.
+            h5 Demostraciones
             p.mt-3 De bastante aplicación por la fuerza de ventas cuando se trata de estimular la compra de un equipo (computadora, máquina de escribir, equipo de sonido, muebles especiales, entre otros) y ante un prospecto de cliente. El vendedor lleva consigo un equipo que instala y pone a funcionar de inmediato e instruye sobre su manejo y precauciones. Si es del caso lo deja durante un período para que el posible cliente se familiarice con su manejo y logre encontrar en él las bondades que satisfagan sus necesidades #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -367,7 +358,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-28.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5  Descuentos.
+            h5  Descuentos
             p.mt-3 Las ofertas o descuentos son reducciones del precio a corto plazo, que en general se usan para incrementar la prueba entre posibles clientes o tomar represalias contra las medidas adoptadas por un competidor, #[strong (Kerin, 2018)]. Para almacenes que comercializan productos, es un buen método para reactivar las ventas y generar ingresos importantes; también estos programas son de gran beneficio en época de recesión o en aquellos ciclos ya tratados donde la demanda de ciertos productos baja. Para los meses de febrero a marzo, los consumidores después de pasar la temporada navideña de grandes gastos, disminuyen su nivel de consumo de ropa, calzado, cosméticos; y de la única manera que se motivan a generar otros gastos es cuando son atraídos por los llamativos descuentos. Las mismas compañías productoras apoyan a sus distribuidores en este tipo de campañas, logrando beneficio mutuo #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -376,7 +367,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-29.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5  Programas especiales de crédito.
+            h5  Programas especiales de crédito
             p.mt-3 Cuando una empresa comercializadora emplea el llamado plan prima (lleve su equipo ahora y pague la cuota inicial con su prima de Navidad), está estimulando la compra de sus mercancías, siendo esta otra forma de promoción. Estos métodos se convierten en factor competitivo muy utilizado por comercializadoras de electrodomésticos y en general artículos para el hogar. Dentro de este mismo programa se emplea la estrategia de recibir el equipo o vehículo viejo como parte de pago #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -385,7 +376,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-30.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5 Programas de lealtad.
+            h5 Programas de lealtad
             p.mt-3 Se usan para estimular y premiar las adquisiciones recurrentes al distinguir cada compra realizada por un consumidor y ofrecer una prima a medida que las compras se acumulan. Los programas de continuidad más populares en la actualidad son los programas de recompensas de las tarjetas de crédito. Más de 75% de las tarjetas ofrecen incentivos por usarlas #[strong (Kerin, 2018)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -403,7 +394,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-32.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5  Regalos, premios, sorteos.
+            h5  Regalos, premios, sorteos
             p.mt-3 Son métodos de gran impulso en la actualidad, con los cuales los almacenes de cadena y empresas en general tratan de atraer clientes (Prettel, 2016). El premio es una herramienta promocional que se usa a menudo con los consumidores; consiste en mercancía gratuita o con ahorros significativos sobre su precio  de venta al menudeo. Este último tipo de premio se llama de autoliquidación porque el costo que se cobra al consumidor cubre el costo del artículo. Los concursos o sorteos consisten en que los consumidores aplican sus habilidades o pensamiento analítico o creativo para competir por un premio. Esta forma de promoción ha crecido a medida que las solicitudes de videos, fotos y ensayos pueden coincidir con la tendencia al contenido generado por los consumidores en internet #[strong (Kerin, 2018)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -412,7 +403,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-33.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5 Cupones. 
+            h5 Cupones
             p.mt-3 Son promociones de ventas que por lo general ofrecen un precio de descuento al consumidor, lo que anima la prueba (Kerin, 2018). Cuando el cliente presenta el respectivo cupón recibirá a cambio un descuento especial #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -421,7 +412,7 @@
             figure.mb-2(style='margin-left: -30px')
               img(src="@/assets/template/tema-1-34.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-9.align-self-center  
-            h5  Reembolsos. 
+            h5  Reembolsos
             p.mt-3 Otra promoción de ventas para los consumidores es el reembolso de efectivo, el cual ofrece la devolución de dinero con base en el comprobante de compra (Kerin, 2018). Por ejemplo, Carrefour manejó una promoción en la que, pasado un período después de haber hecho la compra, el cliente puede regresar a retirar el valor del IVA (impuesto al valor agregado) #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
@@ -596,35 +587,35 @@
           img(src="@/assets/template/tema-1-39.png", alt="Texto que describa la imagen")
     
     TabsB.mt-5
-      .py-4.py-md-5(titulo="Canales" :icono="require('@/assets/template/tema-1-44.svg')")
+      .py-4.py-md-5(titulo="Canales directos e interactivos" :icono="require('@/assets/template/tema-1-44.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            .h4 Canales directos e interactivos.
+            .h4 Canales directos e interactivos
             p Permiten a la empresa comunicar sus mensajes a través de sus contactos personales a clientes potenciales haciendo uso del correo, teléfono, Internet, móvil, visitas personales, etc. Se trata de una opción relacionada con la estrategia push (empujar), al orientarse los esfuerzos de comunicación sobre un intermediario (en este caso los contactos personales de la propia empresa).
           .col-md-6.justify-content-center
             figure
               img(src='@/assets/template/tema-1-40.svg', alt='Texto que describa la imagen').w-50
-      .py-4.py-md-5(titulo="Canales" :icono="require('@/assets/template/tema-1-45.svg')")
+      .py-4.py-md-5(titulo="Canales Indirectos" :icono="require('@/assets/template/tema-1-45.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            .h4 Canales indirectos.
+            .h4 Canales indirectos
             p Permiten a la empresa comunicarse a través de intermediarios, como agentes o brokers, distribuidores, etc. Se trata de nuevo de una opción relacionada con la estrategia push (empujar).
           .col-md-6.justify-content-center
             figure
               img(src='@/assets/template/tema-1-41.svg', alt='Texto que describa la imagen').w-50
-      .py-4.py-md-5(titulo="Canales" :icono="require('@/assets/template/tema-1-46.svg')")
+      .py-4.py-md-5(titulo="Comunicaciones Personales" :icono="require('@/assets/template/tema-1-46.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            .h4 Comunicaciones personales.
+            .h4 Comunicaciones personales
             p Permiten a la empresa poner en práctica el concepto de comunicación uno a uno entre un gestor de marketing o representante de la empresa y un consumidor a través de venta personal, marketing directo, marketing online, la generación del word-of-mouth, etc. Se trata de una opción relacionada con la estrategia pull (tirar), por ser la propia empresa la que comunica.
           .col-md-6.justify-content-center
             figure
               img(src='@/assets/template/tema-1-42.svg', alt='Texto que describa la imagen').w-50
 
-      .py-4.py-md-5(titulo="Canales" :icono="require('@/assets/template/tema-1-47.svg')")
+      .py-4.py-md-5(titulo="Comunicaciones Masivas" :icono="require('@/assets/template/tema-1-47.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            .h4 Comunicaciones masivas.
+            .h4 Comunicaciones masivas
             p Permiten a la empresa comunicar a un grupo de clientes a través de la publicidad, marketing promocional, eventos y experiencias, etc. De nuevo se trata de una opción relacionada con la estrategia pull (tirar).
           .col-md-6.justify-content-center.align-self-center
             figure
@@ -637,7 +628,7 @@
             figure
               img(src="@/assets/template/tema-1-48.svg", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Televisión. 
+            h3 Televisión
             p.mt-4 La televisión es un medio valioso porque comunica con la vista, el sonido y el movimiento. Los anuncios impresos por sí solos jamás podrían darle la sensación de un carro deportivo acelerando desde cero o tomando una curva a gran velocidad. También existen muchas oportunidades para ver la televisión fuera de casa, en lugares como bares, hoteles, oficinas, aeropuertos y campus universitarios #[strong (Kerin, 2018)].
             p.mt-4 Entre las ventajas de la televisión se encuentran captura de audiencias masivas, la combinación de imagen, movimiento, sonido, colores, facilita la creatividad en el desarrollo del mensaje, una persuasión efectiva, gracias a la utilización de testimonios y a las demostraciones de las características de un producto o servicio, permite llevar el mensaje a audiencias diferentes de acuerdo con horarios o franjas diferentes, logra de manera más rápida el Estímulo / Respuesta. La principal desventaja es el alto costo, el pago al testimonio a utilizar que en ocasiones es un personaje famoso, el pago de honorarios al publicista creativo, camarógrafos, entre otros, así como la compra de tiempo al canal, requieren del aporte por parte de la empresa de una gran capital #[strong (Prettel, 2016)].
             p.mt-4 Como el 70% del conocimiento es visual, el 20% es auditivo, el 10 % del resto de los sentidos y el costo por millar de espectadores es bajo, esta tiene grandes posibilidades de transmitir mensajes de gran impacto #[strong (Prieto, 2018)].
@@ -648,7 +639,7 @@
             figure
               img(src="@/assets/template/tema-1-49.svg", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Radio.
+            h3 Radio
             p.mt-4 La radio es un medio masivo de comunicación, se escucha en cualquier parte, lo que facilita llegar a todas las audiencias.
             p.mt-4 Las ventajas de la radio son lograr gran cobertura, la tecnología le permite llegar a cualquier lugar y ser escuchada por cualquier audiencia con algunas diferencias de acuerdo con ciertas características de la población lográndose la mayor audiencia en los sectores de bajos ingresos #[strong (Prettel, 2016)].
     .row.mt-3
@@ -658,7 +649,7 @@
             figure
               img(src="@/assets/template/tema-1-50.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Medios impresos.
+            h3 Medios impresos
             p.mt-4 Deben ser utilizados para anuncios de productos o servicios con alto nivel de involucramiento por parte del consumidor. Los medios escritos permiten la comunicación amplia acerca de las bondades o beneficios de un bien o servicio. 
             p.mt-4 Las ventajas de las revistas y periódicos como medio impreso es que son de gran circulación y pueden estar al alcance de todos, en salas de espera, consultorios médicos, la recepción de cualquier empresa. Todo esto aumenta su circulación y por derivación el gran número de lectores #[strong (Prettel, 2016)].
             p.mt-4 Los periódicos constituyen un medio local importante con un gran potencial de alcance. Debido a que en su mayoría los periódicos se publican de manera cotidiana, permiten que los anuncios se centren en acontecimientos específicos de actualidad, como una “venta de 24 horas”. Además, los comerciantes minoristas locales suelen usar los periódicos como medio publicitario exclusivo #[strong (Kerin, 2018)].
@@ -669,7 +660,7 @@
             figure
               img(src="@/assets/template/tema-1-51.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Internet. 
+            h3 Internet
             p.mt-4 Cada día aumenta el número de personas que tienen acceso a las páginas web y redes sociales, incrementando por ello la difusión de los productos y las posibilidades de comercializarlos por parte de las empresas. Son varias las formas de anunciar por internet: sitios web, banners o pequeños anuncios dentro de la página #[strong (Prettel, 2016)].
             p.mt-4 Internet ha atraído una amplia variedad de industrias, así la publicidad en línea se parece a la publicidad impresa que ofrece un mensaje visual. Sin embargo, tiene ventajas adicionales porque también usa las capacidades de audio y video de internet. El sonido y el movimiento pueden atraer más la atención de los espectadores o proporcionar un elemento de entretenimiento al mensaje. La publicidad por internet también tiene la característica única de ser interactiva #[strong (Kerin, 2018)].
     .row.mt-3
@@ -679,7 +670,7 @@
             figure
               img(src="@/assets/template/tema-1-52.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Vallas.
+            h3 Vallas
             p.mt-4 Están ubicadas preferiblemente en carreteras y en la entrada de las grandes ciudades. Las vallas publicitarias colocadas dentro de la ciudad son controladas por algunos gobiernos debido a la contaminación visual que estas generan y sus implicaciones como causales de accidentes por la distracción de los conductores #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
@@ -688,7 +679,7 @@
             figure
               img(src="@/assets/template/tema-1-53.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Pasacalles. 
+            h3 Pasacalles
             p.mt-4 Medio utilizado para anuncio de nuevos restaurantes, discotecas, espectáculos (conciertos, presentaciones artísticas), campañas políticas, entre otros. Se aconseja colocarlos en sitios concurridos por el segmento meta #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
@@ -697,7 +688,7 @@
             figure
               img(src="@/assets/template/tema-1-54.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Autoparlante (perifoneo).
+            h3 Autoparlante (perifoneo)
             p.mt-4 Vehículos provistos de un parlante y que comúnmente se utiliza para anunciar espectáculos como conciertos, circos, entre otros #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
@@ -706,7 +697,7 @@
             figure
               img(src="@/assets/template/tema-1-55.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Megáfono.
+            h3 Megáfono
             p.mt-4 Aparato de transmisión empleado por almacenes para anunciar sus promociones, ayudado con fondo musical para llamar la atención de la gente que circula en su entorno #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
@@ -715,7 +706,7 @@
             figure
               img(src="@/assets/template/tema-1-56.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Publicidad en cine.
+            h3 Publicidad en cine
             p.mt-4 Los asistentes reciben estímulos con mensajes presentados antes del inicio de la película, #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
@@ -724,7 +715,7 @@
             figure
               img(src="@/assets/template/tema-1-57.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Carteles.
+            h3 Carteles
             p.mt-4 Se ubican en las estaciones del metro, estaciones de buses locales e intermunicipales, aeropuertos, al igual que anuncios en tapetes, tableros electrónicos de los estadios #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
@@ -733,7 +724,7 @@
             figure
               img(src="@/assets/template/tema-1-58.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 El empaque y la etiqueta del producto. 
+            h3 El empaque y la etiqueta del producto
             p.mt-4 Aparte de sus funciones como parte integral del producto, son un excelente medio publicitario, pues el empaque genera imagen y la etiqueta contiene una amplia información acerca de las bondades del producto y sus instrucciones de manejo, que son referentes que tienen en cuenta los consumidores para tomar la decisión de comprar #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
@@ -742,7 +733,7 @@
             figure
               img(src="@/assets/template/tema-1-59.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Camisetas impresas, cachuchas y las viseras. 
+            h3 Camisetas impresas, cachuchas y las viseras 
             p.mt-4 Son elementos utilizados para hacer publicidad #[strong (Prettel, 2016)].
     .row.mt-3
       .col-10.offset-1.rounded.borde-gris.p-4
@@ -751,7 +742,7 @@
             figure
               img(src="@/assets/template/tema-1-60.png", alt="Texto que describa la imagen")
           .col-12.col-md-8.px-5
-            h3 Publicidad móvil. 
+            h3 Publicidad móvil
             p.mt-4 En vehículos o en personas resulta útil para las compañías por su bajo costo #[strong (Prettel, 2016)].
 
     .titulo-segundo.mt-5
@@ -769,7 +760,7 @@
             figure.mt-5(style='margin-left: -40px')
               img(src="@/assets/template/tema-1-62.svg", alt="Texto que describa la imagen")
           .col-12.col-md-9
-            h6 Definición de la época.
+            h6 Definición de la época
             p.mt-3  La época es un período del año identificado por una cultura. La época para la aplicación en el marketing de las empresas, son ciclos en el año en que un producto, por la cultura de la población, por sus actividades laborales o escolares, incrementa su demanda.
       .col-5.offset-1.borde-top-gris.py-4
         .row
@@ -777,7 +768,7 @@
             figure.mt-5(style='margin-left: -40px')
               img(src="@/assets/template/tema-1-63.svg", alt="Texto que describa la imagen")
           .col-12.col-md-9
-            h6 Identificación del tipo de mensaje.
+            h6 Identificación del tipo de mensaje
             p.mt-3 Un mensaje publicitario que lleva la información que se quiere transmitir, cualquiera sea el medio que se utilice, debe ser diseñado de tal manera que despierte la atención del segmento objetivo, e influir de acuerdo con lo que se pretende (informar, persuadir, recordar).
     .row.mt-3
       .col-5.mx-3.borde-top-gris.py-4
@@ -786,7 +777,7 @@
             figure.mt-5(style='margin-left: -40px')
               img(src="@/assets/template/tema-1-64.svg", alt="Texto que describa la imagen")
           .col-12.col-md-9
-            h6 Código. 
+            h6 Código
             p.mt-3  Se debe definir el código o la forma cómo se transmitirá el mensaje, es decir si se hará en lenguaje verbal o escrito, o en signos, símbolos, que es el lenguaje no lingüístico.
       .col-5.offset-1.borde-top-gris.py-4
         .row
@@ -794,7 +785,7 @@
             figure.mt-5(style='margin-left: -40px')
               img(src="@/assets/template/tema-1-65.svg", alt="Texto que describa la imagen")
           .col-12.col-md-9
-            h6 Definición de medios.
+            h6 Definición de medios
             p.mt-3 Los medios publicitarios se deben escoger teniendo en cuenta el tipo de producto, el segmento meta y el presupuesto.
     .row.mt-3
       .col-5.mx-3.borde-top-gris.py-4
@@ -803,7 +794,7 @@
             figure.mt-5(style='margin-left: -40px')
               img(src="@/assets/template/tema-1-66.svg", alt="Texto que describa la imagen")
           .col-12.col-md-9
-            h6 Establecimiento del momento publicitario, o franja.
+            h6 Establecimiento del momento publicitario, o franja
             p.mt-3  Es el horario en que se requiere pasar el mensaje. Aparentemente el más indicado es aquel que comprobadamente tenga mayor audiencia.
       .col-5.offset-1.borde-top-gris.py-4
         .row
@@ -811,7 +802,7 @@
             figure.mt-5(style='margin-left: -40px')
               img(src="@/assets/template/tema-1-67.svg", alt="Texto que describa la imagen")
           .col-12.col-md-9
-            h6 Tiempo de duración del mensaje.
+            h6 Tiempo de duración del mensaje
             p.mt-3 Tiene gran incidencia en el costo de la campaña, cada segundo tiene un alto valor, dependiendo del medio y el horario que se escoja. Las compañías deben manejar el contenido del mensaje en un límite de tiempo, a fin de hacerlo menos costoso; cuidándose de que este ahorro no traiga un efecto negativo sobre el objetivo de la campaña.
     .row.mt-3
       .col-5.mx-3.borde-top-gris.py-4
@@ -820,7 +811,7 @@
             figure.mt-5(style='margin-left: -40px')
               img(src="@/assets/template/tema-1-68.svg", alt="Texto que describa la imagen")
           .col-12.col-md-9
-            h6 Frecuencia del mensaje.
+            h6 Frecuencia del mensaje
             p.mt-3 Es el número de mensajes que se pasan en el medio escogido y en una determinada unidad de tiempo. 
       .col-5.offset-1.borde-top-gris.py-4
         .row
@@ -828,7 +819,7 @@
             figure.mt-5(style='margin-left: -40px')
               img(src="@/assets/template/tema-1-69.svg", alt="Texto que describa la imagen")
           .col-12.col-md-9
-            h6 Tiempo de duración de la campaña.
+            h6 Tiempo de duración de la campaña
             p.mt-3 Es importante escoger la época en que sea de más efectividad. Otras compañías, hacen publicidad todo el año, así les resulte altamente costoso.
     .row.mt-3
       .col-5.mx-3.borde-top-gris.py-4
@@ -878,7 +869,7 @@
     p.mt-5 A continuación, se describen los aspectos relacionados con la frecuencia e intensidad de la campaña, se debe pulsar para revisar la información correspondiente:
     
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-      .row(titulo="1.10.1.	Frecuencia")
+      .row(titulo="Frecuencia")
         .col-3.d-none.d-md-block
           figure.mb-2
             img(src="@/assets/template/tema-1-71.png", alt="Texto que describa la imagen")
@@ -918,7 +909,7 @@
                       i.fas.fa-angle-right.color-c.text-center
                     .col-11
                       p #[strong El presupuesto. ] Si el presupuesto para la campaña publicitaria es bajo, la baja frecuencia se acomodaría a ese bajo capital aportado por la empresa, pero teniendo en cuenta no afectar el objetivo propuesto.
-      .row(titulo="1.10.2.	Intensidad")
+      .row(titulo="Intensidad")
         .col-3.d-none.d-md-block
           figure.mb-2
             img(src="@/assets/template/tema-1-72.png", alt="Texto que describa la imagen")
@@ -971,19 +962,25 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Ventas personales.',
+        titulo: 'Promoción de ventas',
+        texto:
+          'Incentivos a corto plazo que alientan la compra o venta de un producto o servicio (Kotler, 2017). Diariamente se ve como supermercados, almacenes, empresas de servicios, implementan atractivas promociones para sus compradores. A través de catálogos que cada supermercado envía a los consumidores en potencia, muestran los estimulantes descuentos en los precios de sus productos, convirtiéndose este sistema de alguna manera, en una estrategia competitiva, ya que cada empresa trata de estimular el mercado enviando la mayor y más detallada información de todos sus productos a sus posibles compradores (Prettel, 2016). ',
+        imagen: require('@/assets/template/tema-1-73.svg'),
+      },
+      {
+        titulo: 'Ventas personales',
         texto:
           'Incentivos a corto plazo que alientan la compra o venta de un producto o servicio (Kotler, 2017). Diariamente se ve como supermercados, almacenes, empresas de servicios, implementan atractivas promociones para sus compradores. A través de catálogos que cada supermercado ',
         imagen: require('@/assets/template/tema-1-4.png'),
       },
       {
-        titulo: 'Marketing directo y digital.',
+        titulo: 'Marketing directo y digital',
         texto:
           'Es el marketing encaminado a comprometerse de manera directa con consumidores individuales y comunidades de clientes seleccionados cuidadosamente, tanto para obtener una respuesta inmediata como para forjar relaciones duraderas con ellos (Kotler,2018). Es una forma de colocar productos a consumidores finales sin la utilización de lugares especiales de comercialización. Se trata de llegar al cliente o grupo de clientes potenciales de manera personalizada, utilizando una comunicación directa y así mismo haciendo entrega del producto de manera directa. La idea fundamental del marketing directo es vender cada día más productos y hacerlo de la mejor forma (Prettel, 2016).',
         imagen: require('@/assets/template/tema-1-5.png'),
       },
       {
-        titulo: 'Relaciones públicas.',
+        titulo: 'Relaciones públicas',
         texto:
           'Actividades encaminadas a forjar buenas relaciones con los diversos públicos de una compañía mediante la generación de información favorable, la creación de una buena imagen corporativa y el manejo o bloqueo de rumores, relatos o sucesos desfavorables, (Kotler, 2017). Estas hacen parte de un programa mediante el cual una compañía utiliza toda su información para lograr, a través de los diferentes medios de comunicación existentes, una excelente relación con todos los segmentos del mercado, a fin de que resalte siempre la imagen institucional. El objetivo básico de las relaciones públicas es mantener un enlace constante entre el cliente, grupos de clientes, al mismo tiempo que se da gran apoyo a la fuerza de ventas, porque en la mayor parte de los grandes negocios, el cliente piensa en la organización que respalda el producto (Prettel, 2016). ',
         imagen: require('@/assets/template/tema-1-6.png'),
