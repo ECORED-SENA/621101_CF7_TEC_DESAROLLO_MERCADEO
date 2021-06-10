@@ -83,7 +83,7 @@
         #t_1_2.h4 1.2  ADN de marca
     figure.my-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4N96R9R7Ifk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mt-5
       .col-12.col-lg-7.bg-morado-claro.p-5.rounded
         p #[strong Hoyos (2016, citando a Aaker y Joachimsthaler, 2006)] explica que para construir la identidad de marca es necesario comenzar con un análisis estratégico, en donde se analizan los clientes, la competencia y se realiza un autoanálisis. Luego, se establecen los puntos relevantes del producto como su alcance, atributos, relación calidad/valor, usos, usuarios y país de origen; posteriormente, se revisan aspectos relativos a la organización, que puedan ayudar a construir la identidad de la marca, entre los que están los atributos organizativos y la preocupación de la empresa por sus clientes; ulteriormente, se establecen cuáles son aquellos elementos de la marca asociados a características de personalidad y se desarrolla lo que se conoce como el personaje de la marca.
@@ -240,7 +240,7 @@
       #t_1_4.h4 1.4  Audiencia
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/NIPlhd-xd48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mt-5
       .col-12.col-lg-7.tarjeta.tarjeta--naranja.py-5.px-4
         p.mb-0 #[strong O’Guinn (2013)], define las audiencias como un grupo de individuos que recibe e interpreta los mensajes enviados por las empresas u organizaciones. La audiencia podría estar conformada por hogares consumidores, estudiantes universitarios o personas de negocios; además, cualquier grupo grande de personas puede ser una audiencia. La audiencia meta es un grupo particular de consumidores destacados por una organización para una publicidad o una campaña de PIM. Estas audiencias meta se destacan porque la empresa ha descubierto que a los miembros de la audiencia les agrada la categoría de producto y podrían preferir su marca en particular dentro de esa categoría de producto. Las audiencias meta, siempre son audiencias potenciales porque una empresa nunca puede estar segura de que el mensaje en realidad les llegará como ellos pretendieron.
@@ -520,7 +520,7 @@
       #t_1_8.h4 1.8  Relaciones públicas
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/aOwMfkV_1H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mt-5 Las relaciones públicas son el conjunto de actividades para atraer a los clientes y establecer buenas relaciones con los diversos públicos de una compañía. Se utilizan para promover productos, personas, lugares, ideas, actividades, organizaciones e incluso países. Las compañías utilizan las relaciones públicas para entablar buenas relaciones con los consumidores, inversionistas, medios de comunicación y con sus comunidades #[strong (Kotler, 2017)].
     p.mt-4 Las relaciones públicas constituyen una forma de administración de la comunicación que trata de influir en los sentimientos, opiniones o creencias de los clientes, posibles clientes, accionistas, proveedores, empleados y otros públicos acerca de una empresa y sus productos o servicios. Muchas herramientas, como los eventos especiales, informes anuales, conferencias de prensa y manejo de imagen, pueden ser utilizadas por un departamento de relaciones públicas #[strong (Kerin, 2018)].
     figure.mb-2.mt-5
