@@ -4,9 +4,9 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3
-          .title-num 1
-      .h3 Comunicación en marketing
+        span 1
+      h1 Comunicación en marketing
+    
     .row
       .col-12
         p #[strong Para Prettel (2016)], los elementos de la comunicación se definen de la siguiente manera:
@@ -73,7 +73,7 @@
       img(src="@/assets/template/tema-1-8.png", alt="Texto que describa la imagen")
     .row.mt-4.p-5.bg-gris-claro.justify-content-center
       figure.my-5
-        img(src="@/assets/template/tema-1-9.png", alt="Texto que describa la imagen").w-75
+        img(src="@/assets/template/tema-1-9.png", alt="Texto que describa la imagen").w-50
     figcaption Referencia Adaptada de Hoyos (2016)
     p.mt-5 En la figura anterior, se muestra que el proceso de construcción del #[strong Brand equity] comienza por seleccionar un producto y un mercado específico, posteriormente, se procede a definir la identidad de marca, la manera cómo quiere ser percibida; el tercer paso, consiste en escoger un nombre de marca y algunos símbolos identificadores –normalmente solo el logosímbolo y los colores marcarios–; el cuarto paso, la construcción del #[strong Brand equity], con la dinámica de la organización con su mercado en la acumulación de marca.
     p.mt-4 Los consumidores asocian las marcas a diferentes elementos, dependiendo de su experiencia y de su relación con otros usuarios de estas, además, de acuerdo con el modelamiento que hacen los medios de comunicación a través de contenidos editoriales y de contenidos comerciales; es decir, la publicidad pagada por las marcas. Las redes sociales están jugando un papel muy importante en la construcción de asociaciones positivas y negativas de las marcas gracias al intercambio permanente de comentarios entre los usuarios de estas con respecto a sus experiencias de consumo #[strong (Hoyos, 2016).]
@@ -416,7 +416,7 @@
             p.mt-3 Otra promoción de ventas para los consumidores es el reembolso de efectivo, el cual ofrece la devolución de dinero con base en el comprobante de compra (Kerin, 2018). Por ejemplo, Carrefour manejó una promoción en la que, pasado un período después de haber hecho la compra, el cliente puede regresar a retirar el valor del IVA (impuesto al valor agregado) #[strong (Prettel, 2016)].
     .row
       .col-10.offset-1.borde-top-gris
-    .titulo-segundo
+    .titulo-segundo.mt-5
         #t_1_7.h4 1.7 Publicidad
     .row
       .col-12
@@ -950,11 +950,21 @@
         p Enlace web. https://www.sic.gov.co/slider/superindustria-expide-%E2%80%9Cgu%C3%ADa-de-buenas-pr%C3%A1cticas-en-la-publicidad-trav%C3%A9s-de-influenciadores%E2%80%9D      
 
 
+
+
+
+
+
+
+
+
+
 </template>
 
 <script>
 export default {
   name: 'Tema1',
+  components: {},
   data: () => ({
     datosSlyder: [
       {
@@ -983,6 +993,14 @@ export default {
       },
     ],
   }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
 }
 </script>
 
