@@ -12,25 +12,25 @@
         p #[strong Para Prettel (2016)], los elementos de la comunicación se definen de la siguiente manera:
       .col-12.mt-4
         TabsA.mb-5
-          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="1: Emisor (codificador)")
+          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="1: emisor (codificador)")
             h4 Emisor (codificador)
             p.mt-4 El emisor es la persona, empresa o gobierno que desea transmitir un mensaje.
-          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="2: Receptor (decodificador)")
+          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="2: receptor (decodificador)")
             h4 Receptor (decodificador)
             p.mt-4 Es la persona, grupo de personas, segmento meta al que se le transmite el mensaje.
-          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="3: Código")
+          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="3: código")
             h4 Código
             p.mt-4 Lenguaje, signos o símbolos que el emisor utiliza para transmitir el mensaje. El idioma es el código más utilizado. El lenguaje como código en la comunicación puede ser lingüístico, el cual se puede presentar verbal o escrito. Verbal en un mensaje por radio y escrito el mensaje presentado en una valla publicitaria.
-          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="4: El código no lingüístico")
+          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="4: el código no lingüístico")
             h4 El código no lingüístico
             p.mt-4 Visual a través de símbolos o signos. Ejemplo las señales de tránsito o la tarjeta amarilla que le saca un árbitro a un jugador. El mensaje no lingüístico puede ser gestual o con movimientos del cuerpo (La forma de comunicarse los sordomudos). Código no lingüístico auditivo, a través de sonidos. La campana del carro recolector de basuras. El pito de un árbitro. Las empresas emplean este código cuando tratan de enseñarle al consumidor a reconocer un producto con solo escuchar un sonido musical, ejemplo: coordinadora mercantil.
-          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="5: Mensaje")
+          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="5: mensaje")
             h4 Mensaje
             p.mt-4 Es el contenido de la información (ideas, sentimientos o acontecimientos) que desea transmitir el emisor y que desea que sea captado como él quiere. Para lograr esa captación, es importante que el emisor emplee el código y el medio correcto a fin de que el mensaje no sea interpretado de manera diferente a lo que se quiere.
-          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="6: Canal")
+          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="6: canal")
             h4 Canal
             p.mt-4 Es el medio a través de los cuales se transmite el mensaje (televisión-radio-teléfono, internet, una señal de desvío en una carretera).
-          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="7: Respuesta")
+          .tarjeta.tarjeta--amarilla--borde.p-4(titulo="7: respuesta")
             h4 Respuesta
             p.mt-4 Cuando el receptor ha captado el mensaje en la forma que se espera (comprensión del mensaje). En el marketing, cuando el consumidor recuerda el producto o lo compra.    
     p.mt-5 #[strong Best (2007)] , determina que la primera responsabilidad de una comunicación de marketing, es construir notoriedad: informar a los clientes de los productos y servicios de una empresa, segundo las comunicaciones de marketing deben recordar los mensajes, para mantener la notoriedad de lo comunicado y tercero la responsabilidad de una comunicación de marketing puede ser motivar al mercado objetivo a pasar a la acción. Los tres objetivos fundamentales en las comunicaciones de marketing son:
@@ -59,7 +59,7 @@
 
     .row.mt-5
       .titulo-segundo
-        #t_1_1.h4 1.1  Identidad visual
+        #t_1_1.h4 1.1.  Identidad visual
       .bloque-texto-a.p-4.p-md-5.mb-5
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-4.mb-lg-0
@@ -80,13 +80,13 @@
     figure.mt-4
       img(src="@/assets/template/tema-1-10.svg", alt="Texto que describa la imagen")
     .titulo-segundo.mt-5
-        #t_1_2.h4 1.2  ADN de marca
+        #t_1_2.h4 1.2.  ADN de marca
     figure.my-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4N96R9R7Ifk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mt-5
       .col-12.col-lg-7.bg-morado-claro.p-5.rounded
-        p #[strong Hoyos (2016, citando a Aaker y Joachimsthaler, 2006)] explica que para construir la identidad de marca es necesario comenzar con un análisis estratégico, en donde se analizan los clientes, la competencia y se realiza un autoanálisis. Luego, se establecen los puntos relevantes del producto como su alcance, atributos, relación calidad/valor, usos, usuarios y país de origen; posteriormente, se revisan aspectos relativos a la organización, que puedan ayudar a construir la identidad de la marca, entre los que están los atributos organizativos y la preocupación de la empresa por sus clientes; ulteriormente, se establecen cuáles son aquellos elementos de la marca asociados a características de personalidad y se desarrolla lo que se conoce como el personaje de la marca.
+        p #[strong Hoyos (2016, citando a Aaker y Joachimsthaler, 2006)] explica que para construir la identidad de marca es necesario comenzar con un análisis estratégico, en donde se analizan los clientes, la competencia y se realiza un autoanálisis. Luego, se establecen los puntos relevantes del producto como su alcance, atributos, relación calidad/valor, usos, usuarios y país de origen; posteriormente, se revisan aspectos relativos a la organización, que puedan ayudar a construir la identidad de la marca, entre los que están los atributos organizativos y la preocupación de la empresa por sus clientes; anteriormente, se establecen cuáles son aquellos elementos de la marca asociados a características de personalidad y se desarrolla lo que se conoce como el personaje de la marca.
       .col-5.d-none.d-lg-block.align-self-center 
         figure.mt-4
           img(src="@/assets/template/tema-1-11.svg", alt="Texto que describa la imagen")
@@ -95,7 +95,7 @@
     figure.mt-4
       img(src="@/assets/template/tema-1-12.svg", alt="Texto que describa la imagen")
     .titulo-segundo.mt-5
-        #t_1_3.h4 1.3  Mensaje
+        #t_1_3.h4 1.3.  Mensaje
     figure.mt-4
       img(src="@/assets/template/tema-1-13.png", alt="Texto que describa la imagen")
     p.mt-5 #[strong Kotler (2017)] determina que se debe desarrollar un mensaje eficaz. Lo ideal sería que el mensaje captara la atención, mantuviera el interés, provocara el deseo y originara una acción #[strong (esquema conocido como el modelo AIDA)]. En la práctica, pocos mensajes llevan al consumidor de la conciencia hasta la compra; sin embargo, el modelo AIDA sugiere las calidades deseables de un buen mensaje. Al conformar un mensaje, el comunicador de marketing debe decidir qué va a decir en el contenido del mensaje y cómo decirlo en su estructura y formato.
@@ -237,7 +237,7 @@
               h6 Vincular la marca con el movimiento social y cultural.
       figcaption Referencia tomada de O’Guinn (2013)
     .titulo-segundo.mt-5
-      #t_1_4.h4 1.4  Audiencia
+      #t_1_4.h4 1.4.  Audiencia
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/NIPlhd-xd48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -249,7 +249,7 @@
           img(src="@/assets/template/tema-1-18.svg", alt="Texto que describa la imagen").w-75
     p.mt-5 El público podría componerse de usuarios actuales o compradores potenciales, aquellos que toman la decisión de compra o que influyen en ella. El público puede estar integrado por individuos, grupos, audiencias especiales o público en general. El público meta afectará de manera importante las decisiones del comunicador sobre lo que se dirá, cómo, cuándo, dónde y quién lo dirá #[strong (Kotler, 2017).]
     .titulo-segundo.mt-5
-      #t_1_5.h4 1.5  Estrategia de comunicación
+      #t_1_5.h4 1.5.  Estrategia de comunicación
     .row.mt-4
       .col-12.col-lg-5.align-self-center
         p Las estrategias de comunicación tienen diversas clasificaciones en la variable del marketing mix, es necesario conocerlas para definir el mejor camino a seguir en la comunicación de marketing. 
@@ -272,7 +272,7 @@
           img(src="@/assets/template/tema-1-21.svg", alt="Texto que describa la imagen").w-75
     
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-      .row(titulo="1.5.1.	 Estrategias ATL")
+      .row(titulo="Estrategias ATL")
         .col-3.d-none.d-md-block.align-self-center.offset-1
           figure.mb-2
             img(src="@/assets/template/tema-1-22.svg", alt="Texto que describa la imagen").w-75
@@ -281,7 +281,7 @@
           p.mt-4 El ATL, al hacer uso de los medios tradicionales masivos, lo que comunica en un mensaje tendrá un gran alcance de audiencia, incluso a quienes la marca no considere su target. Esto obliga a las estrategias ATL de las marcas a comunicar un mensaje que se ajuste a la comprensión de todo el público que se exponga a la comunicación, y a estar consciente de las medidas de respeto y cautela necesarias al dirigirse al público #[strong (Torreblanca, 2016)].
           p.mt-4 Según #[strong Chong (2007)], los servicios de marketing ATL y BTL representan dos puntos de vista diferentes en cuanto a la recordación de marca y la estrategia del consumidor objetivo. ATL es sinónimo de marketing masivo y de grandes campañas publicitarias, mientras que BTL está basado en información muy medible y enfocada en los patrones de compra del consumidor y los programas de retención.
 
-      .row(titulo="1.5.2.	 Estrategias BTL")
+      .row(titulo="Estrategias BTL")
         .col-3.d-none.d-md-block.align-self-center.offset-1
           figure.mb-2
             img(src="@/assets/template/tema-1-23.svg", alt="Texto que describa la imagen").w-75
@@ -289,7 +289,7 @@
           p Otra forma de hacer publicidad por parte de las empresas es a través de los BTL (de Below The Line). Literalmente esto traduciría “por debajo de la línea”, es decir, fuera de las líneas tradicionales utilizadas para hacer publicidad. La publicidad BTL resulta menos costosa, y se puede direccionar a segmentos puntuales, haciéndose por esta razón, más efectiva por el logro del mejor contacto con los posibles clientes. BTL son diferentes estrategias en que no se utilizan los medios de comunicación tradicionales y estas actividades facilitan el contacto directo con el cliente; son por lo tanto mayormente motivadoras para los consumidores #[strong (Prettel, 2016)].
           p.mt-4 Entre las estrategias de BTL más conocidas se pueden citar: los eventos en lugares públicos (supermercados, parques, universidades), los festivales y las estrategias que hacen parte del marketing directo. De igual manera, al implementar un programa publicitario, se debe interpretar ciertas conductas del consumidor, para lo cual es necesario tener en cuenta tres aspectos: los estímulos, las respuestas, y ciertas reacciones intermedias entre el estímulo y las respuestas. Por otra parte, es necesario tener en cuenta que la respuesta al mensaje, se da de acuerdo con las características o perfil del segmento metas y el tipo de producto que se anuncia #[strong (Prettel, 2016)].
     .titulo-segundo.mt-5
-      #t_1_6.h4 1.6  Promoción
+      #t_1_6.h4 1.6.  Promoción
     .row.mt-5
       .col-12.col-lg-7.align-self-center
         p La promoción de ventas es una estrategia de comunicación con la que se estimula de manera directa al consumidor a través de beneficios adicionales, como regalos, descuentos, rifas, bonos, y con lo que se espera mayor incidencia sobre el resultado final de las ventas y a corto plazo. Quien define un programa de promoción espera una pronta respuesta por parte del consumidor. Por tal razón son a corto plazo, no generando en muchos casos lealtad en el mercado. El resultado deberá ser un incremento en los niveles de ventas #[strong (Prettel, 2016)].   
@@ -417,7 +417,7 @@
     .row
       .col-10.offset-1.borde-top-gris
     .titulo-segundo.mt-5
-        #t_1_7.h4 1.7 Publicidad
+        #t_1_7.h4 1.7. Publicidad
     .row
       .col-12
         figure.mb-2
@@ -448,7 +448,7 @@
               .col-1.text-align-right
                 i.fas.fa-angle-right.color-c.text-center
               .col-11
-                p #[strong Contribuir Al posicionamiento de la marca:] los consumidores ya han experimentado el producto, ahora se debe insistir para que el consumidor relacione la marca con sus beneficios.
+                p #[strong Contribuir al posicionamiento de la marca:] los consumidores ya han experimentado el producto, ahora se debe insistir para que el consumidor relacione la marca con sus beneficios.
           li.mb-0.mt-2 
             .row
               .col-1.text-align-right
@@ -517,7 +517,7 @@
           img(src="@/assets/template/tema-1-37.svg", alt="Texto que describa la imagen").w-75
 
     .titulo-segundo.mt-5
-      #t_1_8.h4 1.8  Relaciones públicas
+      #t_1_8.h4 1.8.  Relaciones públicas
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/aOwMfkV_1H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -578,7 +578,7 @@
               .col-11
                 p #[strong Entrevistas con la prensa o noticieros de televisión o radio.] En los cuales se les suministra alguna noticia sobre algún avance científico que tenga relación con un producto o con la misma compañía. Esto conduce a la buena propaganda.
     .titulo-segundo.mt-5
-      #t_1_9.h4 1.9 Canales de comunicación
+      #t_1_9.h4 1.9. Canales de comunicación
     .row.mt-4
       .col-12.col-md-6.align-self-center  
         p Estrella (2018), enfatiza que, en el entorno actual, multimedia y multicanal, es necesario aprender a manejar cada canal y las opciones de comunicación que estos les brindan para maximizar las ventas y el valor de la marca con cada una de las opciones comunicativas, el reto reside en elegir entre ellos bajo una perspectiva coordinada e integrada los tipos de canales de comunicación que maximicen las estrategias “push” y “pull” (empujar y tirar). A continuación, se explican los tipos de canales.
@@ -742,7 +742,7 @@
             p.mt-4 En vehículos o en personas resulta útil para las compañías por su bajo costo #[strong (Prettel, 2016)].
 
     .titulo-segundo.mt-5
-      #t_1_10.h4 1.10 Campaña
+      #t_1_10.h4 1.10. Campaña
     figure.mt-5
       img(src="@/assets/template/tema-1-61.png", alt="Texto que describa la imagen")
     p.mt-5 Una campaña publicitaria es una serie de anuncios coordinados que comunica un tema razonablemente cohesivo e integrado acerca de una marca. El tema puede estar conformado por varias afirmaciones o puntos, pero debe avanzar sobre un tema esencialmente singular. 
@@ -837,28 +837,28 @@
                 .lista-ol--cuadro__vineta
                   span.text-white 2
               .col-11
-                p #[strong Características del producto o servicio que se va a publicitar:] En este aspecto se hace referencia a todas las bondades que el bien o servicio ofrece al consumidor y que es justamente la parte central del anuncio publicitario.
+                p #[strong Características del producto o servicio que se va a publicitar:] en este aspecto se hace referencia a todas las bondades que el bien o servicio ofrece al consumidor y que es justamente la parte central del anuncio publicitario.
           li
             .row.borde-bot.pb-4
               .col-1.text-align-right
                 .lista-ol--cuadro__vineta
                   span.text-white 3
               .col-11
-                p #[strong Perfil del segmento meta:] Los grupos de mercados, de acuerdo con sus características (edad, género, nivel económico, profesión, entre otras), tienen un comportamiento que los lleva a consumir cierto tipo y cantidad de productos.
+                p #[strong Perfil del segmento meta:] los grupos de mercados, de acuerdo con sus características (edad, género, nivel económico, profesión, entre otras), tienen un comportamiento que los lleva a consumir cierto tipo y cantidad de productos.
           li
             .row.borde-bot.pb-4
               .col-1.text-align-right
                 .lista-ol--cuadro__vineta
                   span.text-white 4
               .col-11
-                p #[strong La estrategia publicitaria de la competencia:] Investigar lo que está haciendo la competencia con sus estrategias publicitarias (medios, tipo de mensaje, objetivo que pretende, segmento al que llega, presupuesto) se ha convertido en un factor competitivo.
+                p #[strong La estrategia publicitaria de la competencia:] investigar lo que está haciendo la competencia con sus estrategias publicitarias (medios, tipo de mensaje, objetivo que pretende, segmento al que llega, presupuesto) se ha convertido en un factor competitivo.
           li
             .row.borde-bot.pb-4
               .col-1.text-align-right
                 .lista-ol--cuadro__vineta
                   span.text-white 5
               .col-11
-                p #[strong Presupuesto publicitario: ] Determinar de dónde se obtendrá la partida económica para financiar la campaña.
+                p #[strong Presupuesto publicitario: ] determinar de dónde se obtendrá la partida económica para financiar la campaña.
       .col-6.d-none.d-md-block.align-self-center
         figure
           img(src="@/assets/template/tema-1-70.png", alt="Texto que describa la imagen")    
@@ -880,31 +880,31 @@
                     .col-1.text-align-right
                       i.fas.fa-angle-right.color-c.text-center
                     .col-11
-                      p #[strong Ciclo en que se encuentra el producto.] En la etapa de introducción, la frecuencia de anuncios debe ser alta, por la necesidad de dar a conocer el producto y por la resistencia al cambio por parte de los consumidores. 
+                      p #[strong Ciclo en que se encuentra el producto:] en la etapa de introducción, la frecuencia de anuncios debe ser alta, por la necesidad de dar a conocer el producto y por la resistencia al cambio por parte de los consumidores. 
                 li.mb-0 
                   .row
                     .col-1.text-align-right
                       i.fas.fa-angle-right.color-c.text-center
                     .col-11
-                      p #[strong Nivel de competencia. ]  Para productos altamente competidos, telefonía celular, gaseosas, cremas dentales, jabones y general los productos de uso diario en los hogares, es recomendable alta frecuencia, reconociendo también el ciclo en que se encuentre el producto.
+                      p #[strong Nivel de competencia: ]  para productos altamente competidos, telefonía celular, gaseosas, cremas dentales, jabones y general los productos de uso diario en los hogares, es recomendable alta frecuencia, reconociendo también el ciclo en que se encuentre el producto.
                 li.mb-0 
                   .row
                     .col-1.text-align-right
                       i.fas.fa-angle-right.color-c.text-center
                     .col-11
-                      p #[strong El tiempo de reposición.] Para productos de alta reposición como los de consumo masivo y que, por lo tanto, no generan mucha lealtad a los consumidores, requieren alta frecuencia.
+                      p #[strong El tiempo de reposición:] para productos de alta reposición como los de consumo masivo y que, por lo tanto, no generan mucha lealtad a los consumidores, requieren alta frecuencia.
                 li.mb-0 
                   .row
                     .col-1.text-align-right
                       i.fas.fa-angle-right.color-c.text-center
                     .col-11
-                      p #[strong Duración del mensaje.] Para mensajes cortos es importante la repetición constante a fin de captar la atención del receptor. Lo contrario para mensajes largos y de gran información requieren baja frecuencia.
+                      p #[strong Duración del mensaje:] para mensajes cortos es importante la repetición constante a fin de captar la atención del receptor. Lo contrario para mensajes largos y de gran información requieren baja frecuencia.
                 li.mb-0 
                   .row
                     .col-1.text-align-right
                       i.fas.fa-angle-right.color-c.text-center
                     .col-11
-                      p #[strong El presupuesto. ] Si el presupuesto para la campaña publicitaria es bajo, la baja frecuencia se acomodaría a ese bajo capital aportado por la empresa, pero teniendo en cuenta no afectar el objetivo propuesto.
+                      p #[strong El presupuesto: ] si el presupuesto para la campaña publicitaria es bajo, la baja frecuencia se acomodaría a ese bajo capital aportado por la empresa, pero teniendo en cuenta no afectar el objetivo propuesto.
       .row(titulo="Intensidad")
         .col-3.d-none.d-md-block
           figure.mb-2
@@ -914,7 +914,7 @@
           P.mt-4 Algunos productos se venden en unas épocas del año mucho más que en otras, lo que hace recomendable a las empresas que se encuentran con estos hechos, la utilización de un modelo de exposición del anuncio concentrado en los períodos “pico de demanda”, en los que hay que desarrollar notoriedad, comprensión e interés hacia el producto #[strong (Best, 2007)].
 
     .titulo-segundo.mt-5
-      #t_1_11.h4 1.11  Normativa de comunicación
+      #t_1_11.h4 1.11.  Normativa de comunicación
     figure.mb-2
       img(src="@/assets/template/tema-1-73.png", alt="Texto que describa la imagen")
     p.mt-5 La ética en la publicidad hace parte del comentario diario de miles de personas. Se especula acerca del alcance que están tomando los diferentes anuncios a través de los diferentes medios de comunicación. No cabe duda de que la publicidad incide en los cambios de hábitos de los consumidores y hasta en su estilo de vida. Se especula mucho acerca de lo ético que puede ser, que la publicidad sea un factor de incidencia en los cambios de conducta del consumidor, los gobiernos tratan de colocar algunas barreras a la publicidad con desmedida incidencia en la conducta de los consumidores, y controles para que los publicistas no caigan en dilemas éticos (Prettel, 2016).
